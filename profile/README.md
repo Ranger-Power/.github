@@ -5,7 +5,7 @@
 ---
 | # | ΑΜ | GitHub profile | Ονοματεπώνυμο |
 | -- | -- | -- | -- |
-| 1 | 2019166| [olumpiaalexopoulou](https://github.com/olumpiaalexopoulou) | Ολυμπία Στεριανή Αλεξοπούλου |
+| 1 | 2019166| [olumpiaalexopoulou](https://github.com/olumpiaalexopoulou) | Ολυμπία-Στεργιανή Αλεξοπούλου |
 | 2 | 2018171 | [perikarananou](https://github.com/perikarananou) | Περιστέρα Καρανάνου |
 | 3 | 2019061 | [Tilav](https://github.com/tilav) | Ελένη Τηλαβερίδου |
 | 4 | 2020171 | [p20oiko](https://github.com/p20oiko) | Σταυρούλα Οικονόμου |
